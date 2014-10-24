@@ -7,6 +7,7 @@ Please feel free to contribute!
 
 * [vfx-sauce](#vfx-sauce)
   * [Image file format](#image-file-format)
+  * [Volumetric data structure](#volumetric-data-structure)
 * [Resources](#resources)
   * [Blogs](#blogs)
   * [Books](#books)
@@ -17,6 +18,11 @@ Please feel free to contribute!
 *Image file format.*
 
 * [OpenEXR](http://openexr.com) - The OpenEXR file format developed by ILM.
+
+## Volumetric data structure
+*Volumetric data structure and file formats.*
+
+* [OpenVDB](http://openvdb.org/) - The OpenVDB libraries developed by Dreamworks Animation.
 
 ## Magazines
 *Magazines.*
