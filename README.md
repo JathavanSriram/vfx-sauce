@@ -22,10 +22,23 @@ Please feel free to contribute!
 
 * [ColorTribe](http://opensource.mikrosimage.eu/colortribe.html) - Open, cross-platform colour measurements and display calibration software suite by [MikrosImage](http://www.mikrosimage.eu/).
 
+
+## Frameworks
+*Various powerful frameworks*
+
+* [Gaffer](http://imageengine.github.io/gaffer/) - A node based application framework by [ImageEngine](http://image-engine.com/).
+
+
 ## Image file format
 *Image file format.*
 
 * [OpenEXR](http://openexr.com) - The OpenEXR file format developed by ILM.
+
+## Libraries
+*VFX centric libraries*
+
+* [Cortex](https://github.com/ImageEngine/cortex) - Reusable, high quality C++ libraries and Python modules tailored for software development in the visual effects industry by [ImageEngine](http://image-engine.com/).
+
 
 ## Metadata
 *Tools to read, write and extract metadata.*
