@@ -18,12 +18,37 @@ Please feel free to contribute!
 ## Colour Science
 *Colour science and calibration tools.*
 
-*[ColorTribe](http://opensource.mikrosimage.eu/colortribe.html) - Open, cross-platform colour measurements and display calibration software suite by [MikrosImage](http://www.mikrosimage.eu/).
+* [ColorPipeTools](http://opensource.mikrosimage.eu/colorPipe.html) - A set of tools to handle and process LUTs or colour spaces. by [MikrosImage](http://www.mikrosimage.eu/).
+
+* [ColorTribe](http://opensource.mikrosimage.eu/colortribe.html) - Open, cross-platform colour measurements and display calibration software suite by [MikrosImage](http://www.mikrosimage.eu/).
 
 ## Image file format
 *Image file format.*
 
 * [OpenEXR](http://openexr.com) - The OpenEXR file format developed by ILM.
+
+## Metadata
+*Tools to read, write and extract metadata.*
+
+* [FileMetaChecker](http://opensource.mikrosimage.eu/fileMetaChecker.html) - A tool to extract metadata from various files by [MikrosImage](http://www.mikrosimage.eu/).
+
+## Multiple View Geometry
+*Tools and solvers for Multiple View Geometry
+problems*
+
+* [OpenMVG](http://opensource.mikrosimage.eu/openmvg.html) - The Open Multiple View Geometry library
+
+
+## Player
+* Image sequence and movie players*
+
+* [Duke](http://opensource.mikrosimage.eu/duke.html) - Puli is a render management solution entirely written in Python by [MikrosImage](http://www.mikrosimage.eu/).
+
+
+## Render Management
+*Render management tools.*
+
+* [Puli](http://opensource.mikrosimage.eu/puli.html) - Puli is a render management solution entirely written in Python by [MikrosImage](http://www.mikrosimage.eu/).
 
 ## Volumetric data structure
 *Volumetric data structure and file formats.*
