@@ -18,9 +18,11 @@ Please feel free to contribute!
 ## Colour Science
 *Colour science and calibration tools.*
 
-* [ColorPipeTools](http://opensource.mikrosimage.eu/colorPipe.html) - A set of tools to handle and process LUTs or colour spaces. by [MikrosImage](http://www.mikrosimage.eu/).
+* [ColorPipeTools](http://opensource.mikrosimage.eu/colorPipe.html) - A set of tools to handle and process LUTs or colour spaces by [MikrosImage](http://www.mikrosimage.eu/).
 
 * [ColorTribe](http://opensource.mikrosimage.eu/colortribe.html) - Open, cross-platform colour measurements and display calibration software suite by [MikrosImage](http://www.mikrosimage.eu/).
+
+* [Colour](https://github.com/colour-science/colour) - Colour Science for Python by [colour-science](http://colour-science.org/contributors.php).
 
 
 ## Frameworks
