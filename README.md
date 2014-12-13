@@ -49,9 +49,13 @@ Please feel free to contribute!
 * [OpenEXR](http://openexr.com) - The OpenEXR file format developed by ILM.
 
 ## Libraries
-*VFX centric libraries.*
+*VFX, graphic and geometry centric libraries.*
 
 * [Cortex](https://github.com/ImageEngine/cortex) - Reusable, high quality C++ libraries and Python modules tailored for software development in the visual effects industry by [ImageEngine](http://image-engine.com/).
+
+* [OpenCV](http://opencv.org/) - The popular Computer Vision library, mostly aimed at real-time computer vision.
+
+* [PCL](http://www.pointclouds.org/) - A powerful library for 3D point cloud data processing.
 
 
 ## Metadata
@@ -101,12 +105,6 @@ problems.*
 
 ### Notes
 
-OpenCV
-PCL
-
-DigiPro 2014 stuff
-
-
-add game engines and stuff!
-
-PYmel chad dombrova
+- Maybe add game engines (e.g. CryEngine)
+- DigiPro 2014 stuff
+- PYmel chad dombrova
